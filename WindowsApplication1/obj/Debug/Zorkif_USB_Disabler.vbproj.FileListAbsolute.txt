@@ -1,0 +1,16 @@
+d:\test\USB_Disabler\WindowsApplication1\bin\Debug\Zorkif_USB_Disabler.exe
+d:\test\USB_Disabler\WindowsApplication1\bin\Debug\Zorkif_USB_Disabler.pdb
+d:\test\USB_Disabler\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+d:\test\USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.ZorkifUSBDisabler.resources
+d:\test\USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.Resources.resources
+d:\test\USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.vbproj.GenerateResource.Cache
+d:\test\USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.exe
+d:\test\USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.pdb
+D:\ZORKIF_TECHNOLOGY_CENTER (ZTC)\PRODUCTS\WorkingSoftwares\Zorkif_USB_Disabler\WindowsApplication1\bin\Debug\Zorkif_USB_Disabler.exe
+D:\ZORKIF_TECHNOLOGY_CENTER (ZTC)\PRODUCTS\WorkingSoftwares\Zorkif_USB_Disabler\WindowsApplication1\bin\Debug\Zorkif_USB_Disabler.pdb
+D:\ZORKIF_TECHNOLOGY_CENTER (ZTC)\PRODUCTS\WorkingSoftwares\Zorkif_USB_Disabler\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\ZORKIF_TECHNOLOGY_CENTER (ZTC)\PRODUCTS\WorkingSoftwares\Zorkif_USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.ZorkifUSBDisabler.resources
+D:\ZORKIF_TECHNOLOGY_CENTER (ZTC)\PRODUCTS\WorkingSoftwares\Zorkif_USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.Resources.resources
+D:\ZORKIF_TECHNOLOGY_CENTER (ZTC)\PRODUCTS\WorkingSoftwares\Zorkif_USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.vbproj.GenerateResource.Cache
+D:\ZORKIF_TECHNOLOGY_CENTER (ZTC)\PRODUCTS\WorkingSoftwares\Zorkif_USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.exe
+D:\ZORKIF_TECHNOLOGY_CENTER (ZTC)\PRODUCTS\WorkingSoftwares\Zorkif_USB_Disabler\WindowsApplication1\obj\Debug\Zorkif_USB_Disabler.pdb
